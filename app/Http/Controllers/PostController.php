@@ -39,6 +39,6 @@ class PostController extends Controller
                 ->back()
                 ->withInput()
                 ->withErrors();
-        }
+            }
     }
 }
